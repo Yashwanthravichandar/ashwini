@@ -1,1 +1,1 @@
-javascript is synchronous interpted language or single thread scripting language.
+javascript is synchronous interpted language or single thread scripting language.the synchronous means code executed line by line.
